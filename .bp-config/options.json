@@ -1,5 +1,5 @@
 {
-    "WEB_SERVER": "nginx",
+    "WEB_SERVER": "httpd",
     "WEBDIR": "public",
     "COMPOSER_VENDOR_DIR": "vendor"
 }
