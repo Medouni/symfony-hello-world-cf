@@ -1,7 +1,7 @@
 applications:
 - name: phpsymfony
   host: phpsymfony
-  memory: 256M
+  memory: 64M
   instances: 1
   env:
     APP_ENV: prod
